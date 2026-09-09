@@ -7,21 +7,29 @@ Wednesday September 9th, 2026
 [Problems with Hurricanes in Houston](https://www.houstonchronicle.com/news/houston-texas/houston/article/Nature-ruled-man-reacted-Hurricane-Harvey-was-12410285.php)
 
 ### Clarity & Accuracy
+explain here --> 
+
 Central Insights ID | Data Visualization | Accuracy
 ------------------- | ------------------ | --------
 number | number | number
 
 ### Quality
+explain here -->
+
 Quality |
 ------- |
 number |
 
 ### Type & Color
+explain here -->
+
 Type | Color
 ---- | -----
 number | number
 
 ### Creativity
+explain here -->
+
 Creative Effectiveness |
 ---------------------- |
 number |
