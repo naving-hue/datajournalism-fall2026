@@ -19,6 +19,7 @@ number |
 ### Type & Color
 Type | Color
 ---- | -----
+number | number
 
 ### Creativity
 Creative Effectiveness |
