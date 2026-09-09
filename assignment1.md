@@ -1,6 +1,6 @@
 # Navin's Assignment 1: Github & Markdown
 Wednesday September 9th, 2026
-
+ 
 
 ## Data Driven Investigation Critique 
 
