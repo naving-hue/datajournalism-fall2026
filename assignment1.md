@@ -1,13 +1,10 @@
 # Navin's Assignment 1: Github & Markdown
-## Wednesday September 9th, 2026
+Wednesday September 9th, 2026
 
-###
-
-[Problems with Hurricanes in Houston](https://www.houstonchronicle.com/news/houston-texas/houston/article/Nature-ruled-man-reacted-Hurricane-Harvey-was-12410285.php)
 
 ### Data Driven Investigation Critique 
 
-
+[Problems with Hurricanes in Houston](https://www.houstonchronicle.com/news/houston-texas/houston/article/Nature-ruled-man-reacted-Hurricane-Harvey-was-12410285.php)
 
 
 ### Final Project Pitch
