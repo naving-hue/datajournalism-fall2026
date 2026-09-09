@@ -8,9 +8,9 @@ Wednesday September 9th, 2026
 
 write here --> 
 Clarity & Accuracy | Quality | Type & Color | Creativity
-5 | 4 | 5 | 3
 ------------------ | ------- | ------------ | ----------
------------------- | ------- | ------------ | ----------
+5 | 4 | 3 | 5
+
 
 ## Final Project Pitch
 
