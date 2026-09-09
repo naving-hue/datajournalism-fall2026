@@ -40,11 +40,17 @@ Creative Effectiveness |
 
 ## Final Project Pitch
 
-Consider... 
+Write a short pitch, as you would in a note to an editor, for a story idea that could work for the class final project. This is NOT locking you in to this idea - this is just to get you thinking about ideas now and so we have a starting point to discuss. The pitch should (at least) cover:
 - What interesting question you want to answer
 - What data may be available (or how you could collect your own dataset) to help you answer it
 - Why this story is timely now
 - What types of people you could talk to for sources
 - Anything else important to know
 
-write here --> 
+The question(s) I would like to tackle are as follows: How has the recent legalization of marijuana in many U.S. states affected academic performances in students aged 14-22? // How has the recent legalization of marijuana in [insert specific state] affected academic performances in students aged 14-22 [insert specific area OR narrow the age range]? I have included two versions of my question in order to give myself room to either narrow or broaden it as needed. I see the data most-likely being available on government-backed healthcare websites, health blogs, and news articles. Because the topic is more-recent, I think I will be able to find a dataset online relating to usage rates, documents abut legislation pertaining to the legalization, and other sources pointing me to where this has had the most significant effects. This story is timely now because, in the past 10 years, there has been a major surge in cannabis product usage due to a variety of factors. The one I want to focus on is the availability of said substance. I could definitely talk to student on AU's campus, as they are within the prime age demographic and fit the criteria of being students. Other than this, I believe this investigation will be fruitful. The only major problem I see running into is the idea that this could be *too* recent of a phenomenon. I am not too worried about this though because 10-20 years is the recency range I am working with, and I *should* be able to find significant data from that.
+
+
+==============
+
++ find a data-journalism ARTICLE to come to class and talk about!!!
++ use the investigative critique as a framework/guide for notes Navin
