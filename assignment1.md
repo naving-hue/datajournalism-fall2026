@@ -7,11 +7,10 @@ Wednesday September 9th, 2026
 [Problems with Hurricanes in Houston](https://www.houstonchronicle.com/news/houston-texas/houston/article/Nature-ruled-man-reacted-Hurricane-Harvey-was-12410285.php)
 
 write here --> 
-### *Clarity & Accuracy* | *Quality* | *Type & Color* | *Creativity*
------------------------- | --------- | -------------- | ------------
------------------------- | --------- | -------------- | ------------
------------------------- | --------- | -------------- | ------------
-
+Clarity & Accuracy | Quality | Type & Color | Creativity
+------------------ | ------- | ------------ | ----------
+------------------ | ------- | ------------ | ----------
+------------------ | ------- | ------------ | ----------
 
 ## Final Project Pitch
 
