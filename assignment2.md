@@ -9,4 +9,7 @@ In assignment2.md, include:
 - An AI disclosure
 
 Database:
+[Runners Dataset](https://www.kaggle.com/datasets/beridzeg45/runners-dataset?resource=download)
+
+This database is a collection of the fastest times for men and women in the following track & field events: 100m, 200m, 400m, 800m, 1500m, 3000m and 10,000m
 
