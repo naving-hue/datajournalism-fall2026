@@ -21,6 +21,7 @@ When looking through the data, I initially wanted to do the top 10 records for t
 In my data sheet, I noted a few things about the top 11 times. To briefly summarize, the top 11 fastest 100 meter dashes ran, of all time are actually only ran by 5 distinct people (Usain Bolt 4x, Tyson Gay 2x, Yohan Blake 1x, Asafa Powell 2x, Justin Gatlin 1x). Only 2 of the 11 times ran were ran in conditions with wind speeds less than or equal to 0.0 [m/s]. The fastest 100m dash of all time that wasn't aided by wind at all is the 3rd fastest time by technicality of the rules of World Athletics (Usain Bolt, 9.69s). The fourth fastest 100m dash rides the line between illegal and legal with a wind reading of (+) 2.0 [m/s]. The fifth fastest 100m dash of all time was ran with a headwind of (-) 0.1 [m/s], making it seemingly more impressive than times ran with positive backwinds.
 
 No AI was used for the finding, researching, and organizing of this data. Below are the sources I used:
+
 [Runners Dataset](https://www.kaggle.com/datasets/beridzeg45/runners-dataset/data)
 
 [World Athletics](https://worldathletics.org/records/all-time-toplists/sprints/100-metres/all/men/senior?regionType=world&timing=electronic&windReading=regular&page=1&bestResultsOnly=false&firstDay=1899-12-31&lastDay=2026-09-19&maxResultsByCountry=all&eventId=10229630&ageCategory=senior)
