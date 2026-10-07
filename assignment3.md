@@ -26,7 +26,7 @@ The answer to my question is that the average Male Literacy Rate amongst all cou
 
 ## Story Research
 
-+ link to Emma's
+[Emma's GitHub assignment3.md](https://github.com/EmmaWhis/datajournalism-fall2026/blob/bbf3080b1c64554c9ae14959c85dbb52e808d38f/Assignment3.md)
 
 ### Guide
 
