@@ -28,16 +28,11 @@ The answer to my question is that the average Male Literacy Rate amongst all cou
 
 + link to Emma's
 
-- In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story.
--   For each, please write why the data source is trustworthy and what (if any) limitations it might have.
--   Be prepared to discuss with me and the class what you find.
-
 ### Guide
-- You only need to turn in one assignment for your group, but it would be helpful for me if everyone had a link to it in their Github repo for grading purposes. So it should work something like this:
--   One person in group uploads the written markdown file to Github
--   That person shares the URL of the file with other students
--   Other students in group link to that file as part of their assignment3.md
 
+-   EMMA uploads the written markdown file to Github
+-   EMMA shares the URL of the file with other students
+-   JYE and I link to that file as part of their assignment3.md
 
 ## AI Disclosure
 
