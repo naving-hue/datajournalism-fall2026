@@ -26,11 +26,8 @@ The answer to my question is that the average Male Literacy Rate amongst all cou
 
 ## Story Research
 
-### Summary + Related Stories
-
 + link to Emma's
 
-### 3 Datasets
 - In addition to searching for other stories that have been done on this topic, please identify at least three high-quality datasets you could use in your story.
 -   For each, please write why the data source is trustworthy and what (if any) limitations it might have.
 -   Be prepared to discuss with me and the class what you find.
