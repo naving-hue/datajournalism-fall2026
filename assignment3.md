@@ -31,8 +31,8 @@ The answer to my question is that the average Male Literacy Rate amongst all cou
 ### Guide
 
 -   EMMA uploads the written markdown file to Github
--   EMMA shares the URL of the file with other students
--   JYE and I link to that file as part of their assignment3.md
+-   EMMA shares the URL of the file JYE & I
+-   JYE & I link to that file as part of our assignment3.md
 
 ## AI Disclosure
 
