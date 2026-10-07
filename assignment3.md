@@ -5,9 +5,14 @@
 
 Editing Link: [data on crime reports within one mile of AU's campus](https://american0-my.sharepoint.com/:x:/g/personal/ng3757a_american_edu/IQD5rqRyd3iZR7EnnWz5bGbYAbtGXyeREbdUPkymqEFoYa0?e=fs8Vv7)
 
-- The interesting question you answered and why it could meet standards of newsworthiness for AU's audience.
-- The steps you took to answer it, including how you built your pivot table.
-- The answer to the question.
+My question: In the mile radius of AU, what is the majority of the crimes that occur and what neighborhood cluster does it show up in most commonly?
+
+This question is newsworthy for an AU audience because it can inform people, who go to or work at AU, of neighborhood clusters that may be classified as more dangerous. It can also give an AU audience an opening to explore further, why these crimes happen and how they might be able to change that fact. Finally, it can be useful to journalism majors at AU who want to gather more experience for their area of study.
+
+First, I highlighted all the data and created a Pivot Table that included *OFFENSE* and *NEIGHBORHOOD CLUSTER*. I placed *OFFENSE* in the Sum of Values tab in order to count up the number of offenses. I placed *NEIGHBORHOOD CLUSTER* in the Rows tab in order to organize the summed up *OFFENSE* data. What I found was an overwhelming majority of "theft/other". I took the number of "theft/other" reports and divided it by the total number of offenses, then multiplied by 100. After this, I changed the parameters by placing *NEIGHBORHOOD CLUSTER* in the Rows tab and *OFFENSE* in both the Sum of Values tab and Column tab.
+
+To find the majority of the crimes, I divided the number of "theft/other" crimes, 1271, by the total number of crimes, 2156, making it 58.95% of the crimes. This was an overwhelming majority compared to the rest of the listed crimes. For the neighborhood clusters, there were two which held the most common instances of "theft/other". Out of clusters 11, 13, 14, and 15, Cluster 14 held 511 of 1271 and Cluster 11 held 676 of 1271. To answer which held the most common "theft/other" crimes, I would say Cluster 11 with 676 of 1271. Cluster 11 held 53.19% of the crimes while Cluster 14 held 40.20% of them. This lets me conclude that Cluster 11 holds the most common number of "theft/other," which represents the majority of the crimes committed within a 1-mile radius of AU.
+
 
 ## Final Project Dataset
 
