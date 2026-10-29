@@ -12,6 +12,5 @@ For assignment4.md, you'll turn in:
 
 
 ## AI Disclosure
-
 ### No AI was used in the research, cleaning, analyzing, or any other part of my process for this assignment.
 
