@@ -13,10 +13,7 @@ To Do
 For assignment4.md, you'll turn in:
 - Links to the two original charts you redesigned.
 
-### Chart 1 - *Top 10 Roller Coasters* by Ojoswi Basu
-
-[MakeoverMonday 2026 WK1](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters)
-
+### Chart 1 - [*Top 10 Roller Coasters*](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters) by Ojoswi Basu
 ### Chart 2 - 
 link here
 
