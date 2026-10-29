@@ -10,12 +10,14 @@ Due Oct. 28
 Original - [Tallest Rollercoasters](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters) 
 
 TOP 10 ROLLER COASTERS REDESIGN
+
 <img width="2965" height="2256" alt="TOP_10_ROLLER_COASTERS_REDESIGN" src="https://github.com/user-attachments/assets/7194c0a2-8cf8-4f96-8a91-94775c3b6546" />
 
 ### Chart 2 | *1700+ Missions: A Decade of Space Launches (2017-2026)* by Iris Sun
 Original - [The World's Space Launch Sites](https://public.tableau.com/app/profile/iris6683/viz/MoM2026Week26SpaceLaunch/MOM2026Week26) 
 
 SPACE LAUNCHES REDESIGN
+
 <img width="3235" height="2491" alt="SPACE_LAUNCHES_REDESIGN" src="https://github.com/user-attachments/assets/5cf7a9c2-f8b5-4cbe-a9f6-60cbd4ce8e3d" />
 
 
