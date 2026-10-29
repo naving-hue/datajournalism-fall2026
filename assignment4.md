@@ -1,6 +1,6 @@
 # Navin's Assignment 4: Sketch a Visualization
 
-*Note: I submitted this assignment at X:XX AM, [length of time] after the posted deadline so it is *late*
+*Note: I submitted this assignment at ~6:30 AM, ~13 hours after the posted deadline so it is *late*
 
 # Makeover Monday
 
