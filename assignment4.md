@@ -11,7 +11,7 @@ Original - [Tallest Rollercoasters](https://public.tableau.com/app/profile/ojosw
 
 <img width="2965" height="2256" alt="TOP_10_ROLLER_COASTERS_REDESIGN" src="https://github.com/user-attachments/assets/7194c0a2-8cf8-4f96-8a91-94775c3b6546" />
 
-For this redesign, I chose to go with a `s`
+For this redesign, I chose to go with a ^sssss sssss^
 
 ### Chart 2 | *1700+ Missions: A Decade of Space Launches (2017-2026)* by Iris Sun
 Original - [The World's Space Launch Sites](https://public.tableau.com/app/profile/iris6683/viz/MoM2026Week26SpaceLaunch/MOM2026Week26) 
