@@ -13,14 +13,12 @@ To Do
 For assignment4.md, you'll turn in:
 - Links to the two original charts you redesigned.
 
-### Chart 1
-*Top 10 Roller Coasters* by Ojoswi Basu
+### Chart 1 *Top 10 Roller Coasters* by Ojoswi Basu
 [Tallest Rollercoasters](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters) 
 
 Redesign: *name* by Navin Gilchrist
 
-### Chart 2
-*1700+ Missions: A Decade of Space Launches (2017-2026)* by Iris Sun
+### Chart 2 *1700+ Missions: A Decade of Space Launches (2017-2026)* by Iris Sun
 [The World's Space Launch Sites](https://public.tableau.com/app/profile/iris6683/viz/MoM2026Week26SpaceLaunch/MOM2026Week26) 
 
 Redesign: *name* by Navin Gilchrist
