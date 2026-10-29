@@ -2,8 +2,6 @@
 
 *Note: I submitted this assignment at X:XX AM, [length of time] after the posted deadline so it is *late*
 
-Due Oct. 28
-
 # Makeover Monday
 
 ## Chart 1 | *Top 10 Roller Coasters* by Ojoswi Basu
@@ -13,13 +11,14 @@ Original - [Tallest Rollercoasters](https://public.tableau.com/app/profile/ojosw
 
 <img width="2965" height="2256" alt="TOP_10_ROLLER_COASTERS_REDESIGN" src="https://github.com/user-attachments/assets/7194c0a2-8cf8-4f96-8a91-94775c3b6546" />
 
+For this redesign, I chose to go with a `s`
+
 ### Chart 2 | *1700+ Missions: A Decade of Space Launches (2017-2026)* by Iris Sun
 Original - [The World's Space Launch Sites](https://public.tableau.com/app/profile/iris6683/viz/MoM2026Week26SpaceLaunch/MOM2026Week26) 
 
-SPACE LAUNCHES REDESIGN
+### SPACE LAUNCHES REDESIGN
 
 <img width="3235" height="2491" alt="SPACE_LAUNCHES_REDESIGN" src="https://github.com/user-attachments/assets/5cf7a9c2-f8b5-4cbe-a9f6-60cbd4ce8e3d" />
-
 
 For this redesign, I decided to go with a Dot Density type of data visualization. The original graphic had its title left-aligned on the top of the page with a small subtitle. The graphic below it represented the 1700+ launches since 2017, but the category for this folder was *The World's Space Launch Sites*. Due to this, I chose to change the graphic type from lines that stemmed to a Dot Strip Plot type of visualization, to a map with a Dot Density style. My graphic had a world map along with dots for all launch sites around the world. I chose to use 4 different colors to distinguish between the countries even further and because the original graphic highlighted the US, China and Russia in particular. I chose red for China because the flag is mainly red, blue for USA because it is a color in the flag, grey for Russia because I didn't want to use white, and black for the "other" category representing the rest of the world. Finally, I decided to center the titled text and make the years into the subtitle for personal aesthetic purposes.
 
