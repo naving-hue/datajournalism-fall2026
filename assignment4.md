@@ -10,4 +10,6 @@ For assignment4.md, you'll turn in:
 (you can upload PNGs or JPEGs to Github and link from your markdown file -- ask Google or use AI for instructions)
 - For each visualization, a short list of what changes you made from the original. For each, say why.
 
-- 
+
+## AI Disclosure: No AI was used in the research, cleaning, analyzing, or any other part of my process for this assignment.
+
