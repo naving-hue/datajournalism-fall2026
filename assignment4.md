@@ -12,6 +12,14 @@ To Do
 
 For assignment4.md, you'll turn in:
 - Links to the two original charts you redesigned.
+
+### Chart 1 - *Top 10 Roller Coasters* by Ojoswi Basu
+
+[MakeoverMonday 2026 WK1](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters)
+
+### Chart 2 - 
+link here
+
 - Links to your chart redesign image files 
 (you can upload PNGs or JPEGs to Github and link from your markdown file -- ask Google or use AI for instructions)
 - For each visualization, a short list of what changes you made from the original. For each, say why.
