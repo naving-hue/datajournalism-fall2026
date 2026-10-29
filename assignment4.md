@@ -1,5 +1,7 @@
 # Navin's Assignment 4: Sketch a Visualization
 
+*Note: I submitted this assignment at X:XX AM, [length of time] after the posted deadline so it is *late*
+
 Due Oct. 28
 
 For assignment4.md, you'll turn in:
