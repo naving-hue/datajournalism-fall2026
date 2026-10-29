@@ -4,6 +4,12 @@
 
 Due Oct. 28
 
+## Makeover Monday
+
+To Do
+- Choose 2 different types of charts from Makeover Monday Archive
+- Use a pencil and paper, then take a picture of your work OR Adobe Illustrator, Photoshop, or whatever you're familiar with
+
 For assignment4.md, you'll turn in:
 - Links to the two original charts you redesigned.
 - Links to your chart redesign image files 
