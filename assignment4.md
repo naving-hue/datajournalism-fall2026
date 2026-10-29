@@ -4,12 +4,12 @@
 
 Due Oct. 28
 
-## Makeover Monday
+# Makeover Monday
 
-### Chart 1 | *Top 10 Roller Coasters* by Ojoswi Basu
+## Chart 1 | *Top 10 Roller Coasters* by Ojoswi Basu
 Original - [Tallest Rollercoasters](https://public.tableau.com/app/profile/ojoswi/viz/MakeoverMonday2026WK1Top10RollerCoasters/Top10RollerCoasters) 
 
-TOP 10 ROLLER COASTERS REDESIGN
+### TOP 10 ROLLER COASTERS REDESIGN
 
 <img width="2965" height="2256" alt="TOP_10_ROLLER_COASTERS_REDESIGN" src="https://github.com/user-attachments/assets/7194c0a2-8cf8-4f96-8a91-94775c3b6546" />
 
