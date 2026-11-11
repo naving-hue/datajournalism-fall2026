@@ -1,5 +1,4 @@
-Assignment 5 - writing about data
-Due Nov. 18
+# Navin's Assignment 4: Sketch a Visualization
 
 Choose one of these stories to read in full. Critique it based on the following. For each, write in complete sentences and give examples and your reasoning; not just yes or no reponses.
 
