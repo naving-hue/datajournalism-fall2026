@@ -4,31 +4,36 @@ Choose one of the stories to read in full. Critique it based on the Lede, Data, 
 
 Chosen Article: [Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service)
 
-Lede: What kind of lede did the reporter use? Do you think it was effective in enaging the reader and communicating what the story would be about? Why or why not?
 The Data: What did the analysis involve and what were the findings? Thinking critically about it, are there any problems you see or areas you have more questions about?
+
 Sources: How did the story integrate human sources to speak to the data? Did they agree or contradict with the reporters' findings from the data? In your opinion, how did they help or hurt the story?
+
 Story structure: Which of the following techniques did the story use (can be more than one)? For each, describe how it was used. Feel free to include other techniques if you identify them. Hint: If the story uses subheds, those can be helpful to identify structure.
+
 Inverted pyramid
 Chronological
 Martini glass
 Circle/bookend
 Vignettes
+
 Numbers: Was the writing about data clear and engaging? Were there any points that felt bogged down with numbers or could have been written in an easier to understand way? Use examples.
+
 Data viz: How did data visualization add to this story? Were there instances where it felt decorative/unncessary? Why or why not?
+
 Methods: How did the author address the nuances or limitations of the data? Did they use a nerd box? If so, was it effective? If not, do you think they needed one? Why or why not?
+
 Etc: Was there anything else in the story that you have further questions about or would have done differently?
 
+## Lede
+
+The lede for the story was intertwined with a data visualization showing a specific example of the point they were trying to illustrate. They took two houses, showed how close they were and then contrasted their physical distance with their statistics on the households themselves, concluding that internet service favored certain homes over others. It was effective because it laid out a situation and used statistics to give hard facts for readers. This was enhanced by visualizations which, notoriously, stick in readers minds for longer to illustrate their point and give a visceral contrast between the two households in question.
+
+It was a very good hook that engaged the reader without completely revealing the results of their investigation into the different service providers. After the data visualization hook, the story used a traditional 1 paragraph lede introducing their investigation, naming the specific organizations and specifically stating the point of interest that they were homing in on.
 
 ## AI Disclosure
 ### No AI was used in any part of my process for this assignment.
 
 https://publicintegrity.org/education/unhoused-and-undercounted/schools-fail-to-count-homeless-students/ 
-
-## Lede
-
-The story used an anecdotal lede about the Petersen family. The first paragraph was arresting — why is she paying acquaintances to take her kid to school? The second answers that question — because they lost their apartment. But then that leaves me wondering, OK, is this just a story about a homeless family? But the third and fourth say what this is really going to be about: the fact that there’s a program that entitled them to free school bus transportation, and it’s not being communicated to the people who need it.
-
-Using an anecdotal lede like this helps humanize the issue the story is about, so I do think it’s effective. It takes a little longer than I would have liked to get to the payoff. Perhaps the sentence about having to switch districts could have been cut or moved down lower in the story. 
 
 ## The data
 
