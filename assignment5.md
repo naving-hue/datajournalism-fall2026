@@ -99,3 +99,6 @@ The methodology was most clearly outlined in a sidebar/nerd box about two-thirds
 ## Etc
 [insert etc here]
 I thought the second section of the story, which dealt with race, was less revelatory, than the lower sections. The main finding of that second section appeared to be that homelessness is a larger issue for Black, Latino and disabled students. This wasn’t surprising to me as a reader or to the sources interviewed. It was making the case that the federal education law should have addressed this, but it didn’t say how that would have worked or what that would change today, then the story moved on to undercounting, which seemed like the main finding. One possible way to improve this would be to move the section on race down and show how differences in undercounting spanned communities with different racial demographics. That way the inequality would still be reported, but within the context of the story’s main findings, and the details of those main findings would be higher up in the text (i.e. inverted pyramid)
+
+## AI Disclosure
+### No AI was used in any part of my process for this assignment.
