@@ -1,22 +1,11 @@
-# Navin's Assignment 4: Writing about Data
+# Navin's Assignment 5: Writing about Data
 
-Choose one of these stories to read in full. Critique it based on the following. For each, write in complete sentences and give examples and your reasoning; not just yes or no reponses.
+Choose one of the stories to read in full. Critique it based on the Lede, Data, Sources, Story Structure, Numbers, Data Visualization, Methods & etc. For each, write in complete sentences and give examples and your reasoning; not just yes or no reponses.
 
-## AI Disclosure
-### No AI was used in any part of my process for this assignment.
-
-Where will the West's next deadly wildfire strike? The risks are everywhere
-
-Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service
-
-Extreme heat is one of the deadliest consequences of climate change
-
-The Smoke Comes Every Year. Sugar Companies Say the Air Is Safe.
-
-Trauma deserts in rural America: Where you live can determine whether you live
+Chosen Article: [Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service)
 
 Lede: What kind of lede did the reporter use? Do you think it was effective in enaging the reader and communicating what the story would be about? Why or why not?
-The data: What did the analysis involve and what were the findings? Thinking critically about it, are there any problems you see or areas you have more questions about?
+The Data: What did the analysis involve and what were the findings? Thinking critically about it, are there any problems you see or areas you have more questions about?
 Sources: How did the story integrate human sources to speak to the data? Did they agree or contradict with the reporters' findings from the data? In your opinion, how did they help or hurt the story?
 Story structure: Which of the following techniques did the story use (can be more than one)? For each, describe how it was used. Feel free to include other techniques if you identify them. Hint: If the story uses subheds, those can be helpful to identify structure.
 Inverted pyramid
@@ -29,6 +18,9 @@ Data viz: How did data visualization add to this story? Were there instances whe
 Methods: How did the author address the nuances or limitations of the data? Did they use a nerd box? If so, was it effective? If not, do you think they needed one? Why or why not?
 Etc: Was there anything else in the story that you have further questions about or would have done differently?
 
+
+## AI Disclosure
+### No AI was used in any part of my process for this assignment.
 
 https://publicintegrity.org/education/unhoused-and-undercounted/schools-fail-to-count-homeless-students/ 
 
