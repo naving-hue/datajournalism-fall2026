@@ -1,16 +1,24 @@
 # Navin's Assignment 5: Writing about Data
 
-## NOTE - THIS ASSIGNMENT IS INCOMPLETE AS OF WEDNESDAY @ 5:30 PM!!!
+## NOTE - THIS ASSIGNMENT IS INCOMPLETE AS OF TUESDAY @ 5:30 PM!!!
 
 Choose one of the stories to read in full. Critique it based on the Lede, Data, Sources, Story Structure, Numbers, Data Visualization, Methods & etc. For each, write in complete sentences and give examples and your reasoning; not just yes or no reponses.
 
 Chosen Article: [Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service)
 
 The Data: What did the analysis involve and what were the findings? Thinking critically about it, are there any problems you see or areas you have more questions about?
-EDITING...
+
 
 Sources: How did the story integrate human sources to speak to the data? Did they agree or contradict with the reporters' findings from the data? In your opinion, how did they help or hurt the story?
-EDITING...
+- activist group -- can make case for silent voices; communication workers of America; they are the experts of the opposition to the internet providers; they write to FCC; you give perspective of an organized group able to the voice for those who can't/don't; valuable info + counterbalances the PR Machine that is these corps/this corp
+- the accused -- you need to reach out to the person/org under scrutiny to make sure they have a say/statement + could get more info; it is being impartial and helps balance it out + gives credibility by having the two sides (activist group = the ppl affected VS the internet provider(S))
+
+types of sources (bank)
+Real person
+Experts
+Activists
+“Accused”
+Officials (sometimes same as “accused”)
 
 Story structure: Which of the following techniques did the story use (can be more than one)? For each, describe how it was used. Feel free to include other techniques if you identify them. Hint: If the story uses subheds, those can be helpful to identify structure.
 EDITING...
@@ -32,6 +40,9 @@ EDITING...
 Etc: Was there anything else in the story that you have further questions about or would have done differently?
 EDITING...
 
+====================
+Submittable below:
+
 ## Lede
 
 The lede for the story was intertwined with a data visualization showing a specific example of the point they were trying to illustrate. They took two houses, showed how close they were and then contrasted their physical distance with their statistics on the households themselves, concluding that internet service favored certain homes over others. It was effective because it laid out a situation and used statistics to give hard facts for readers. This was enhanced by visualizations which, notoriously, stick in readers minds for longer to illustrate their point and give a visceral contrast between the two households in question.
@@ -40,6 +51,8 @@ It was a very good hook that engaged the reader without completely revealing the
 
 ## AI Disclosure
 ### No AI was used in any part of my process for this assignment.
+
+=======================================================
 
 Below are Professor's examples (using as a guide)
 
