@@ -14,11 +14,11 @@ Sources: How did the story integrate human sources to speak to the data? Did the
 - the accused -- you need to reach out to the person/org under scrutiny to make sure they have a say/statement + could get more info; it is being impartial and helps balance it out + gives credibility by having the two sides (activist group = the ppl affected VS the internet provider(S))
 
 types of sources (bank)
-Real person
-Experts
-Activists
-“Accused”
-Officials (sometimes same as “accused”)
+- Real person
+- Experts
+- Activists
+- “Accused”
+- Officials (sometimes same as “accused”)
 
 Story structure: Which of the following techniques did the story use (can be more than one)? For each, describe how it was used. Feel free to include other techniques if you identify them. Hint: If the story uses subheds, those can be helpful to identify structure.
 EDITING...
