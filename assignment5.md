@@ -7,18 +7,15 @@ Choose one of the stories to read in full. Critique it based on the Lede, Data, 
 Chosen Article: [Dollars to Megabits, You May Be Paying 400 Times As Much As Your Neighbor for Internet Service](https://themarkup.org/still-loading/2022/10/19/dollars-to-megabits-you-may-be-paying-400-times-as-much-as-your-neighbor-for-internet-service)
 
 The Data: What did the analysis involve and what were the findings? Thinking critically about it, are there any problems you see or areas you have more questions about?
-
+[TO DO]
 
 Sources: How did the story integrate human sources to speak to the data? Did they agree or contradict with the reporters' findings from the data? In your opinion, how did they help or hurt the story?
-- activist group -- can make case for silent voices; communication workers of America; they are the experts of the opposition to the internet providers; they write to FCC; you give perspective of an organized group able to the voice for those who can't/don't; valuable info + counterbalances the PR Machine that is these corps/this corp
-- the accused -- you need to reach out to the person/org under scrutiny to make sure they have a say/statement + could get more info; it is being impartial and helps balance it out + gives credibility by having the two sides (activist group = the ppl affected VS the internet provider(S))
+[WORK IN PROGRESS]
+The story felt really balanced as it used a range of sources to form a full perspective for the reader. They had sources from real people, spokespeople from the accused companies, activists and unions and even officials in government. The diversity of sources allowed them to create an article that not only covered the issue, but showed all possible angles that one may view it from leading to a more credible piece. 
 
-types of sources (bank)
-- Real person
-- Experts
-- Activists
-- “Accused”
-- Officials (sometimes same as “accused”)
+By including statements from Jim Greer (the AT&T spokesperson) and USTelecom (speaker for Verizon), they provided information and evidence from companies under scrutiny. They balanced this by having sources like a policy counsel person for the American Civil Liberties Union and fact-checking from the Communication Workers of America.
++ mention the legislator (maybe not tho bc already mentioned...)
++ go into specifics (include at least 1 quote per group/angle) & explain it
 
 Story structure: Which of the following techniques did the story use (can be more than one)? For each, describe how it was used. Feel free to include other techniques if you identify them. Hint: If the story uses subheds, those can be helpful to identify structure.
 EDITING...
@@ -61,7 +58,7 @@ Below are Professor's examples (using as a guide)
 The analysis used linear regression to compare the number of identified homeless students with other metrics that typically correlate to homelessness: free lunch programs and poverty rates. It makes an assumption that in places where there are more use of free and reduced lunch programs and higher poverty rates, you would expect more students to be homeless. The story then backs this assumption up with data and quotes from experts. It looks like there was a map in the story that isn’t working now, but I would have been interested to be able to explore these rates on my own for places I’m interested in.
 
 ## Sources
-[insert sources here]
+
 The story uses a variety of types of sources, and at the end of it they say they interviewed more than 50 people for it. It obviously starts with the sources from the Petersen family, who are the kinds of people affected by the issue the story is about. They also use expert sources from nonprofits like SchoolHouse Connection who study this issue and advocate on it. And they gave school districts and education officials
  a chance to respond to their findings. 
 
@@ -118,5 +115,27 @@ The methodology was most clearly outlined in a sidebar/nerd box about two-thirds
 ## Etc
 [insert etc here]
 I thought the second section of the story, which dealt with race, was less revelatory, than the lower sections. The main finding of that second section appeared to be that homelessness is a larger issue for Black, Latino and disabled students. This wasn’t surprising to me as a reader or to the sources interviewed. It was making the case that the federal education law should have addressed this, but it didn’t say how that would have worked or what that would change today, then the story moved on to undercounting, which seemed like the main finding. One possible way to improve this would be to move the section on race down and show how differences in undercounting spanned communities with different racial demographics. That way the inequality would still be reported, but within the context of the story’s main findings, and the details of those main findings would be higher up in the text (i.e. inverted pyramid)
+
+BANK FOR EXTRA NOTES/INFO (for meeeE)
+
+SOURCES
+- the accused -- "The Markup gathered and analyzed more than 800,000 internet service offers from AT&T, Verizon, Earthlink, and CenturyLink in 38 cities across America"
+examples from Class 10 Online Lecture (basically freebies)
+- real person -- "'It isn’t just about the provision of a better service. It’s about access to the tools people need to fully participate in our democratic system,' said Chad Marlow, senior policy counsel at the ACLU. 'That is a far bigger deal and that’s what really worries me about what you’re finding.'" | ACLU = the American Civil Liberties Union
+- activists/real people -- "Christopher Lewis, president and CEO of the nonprofit Public Knowledge, which works to expand internet access, said The Markup’s analysis shows how far behind the federal government is when it comes to holding internet providers to account. 'Nowhere have we seen either the FCC nor the Congress, who ultimately has authority as well, study competition in the marketplace and pricing to see if consumers are being price gouged or if those service offerings make sense.'"
+- the accused -- "The industry group USTelecom, speaking on behalf of Verizon, said the cost of maintaining the antiquated equipment used for slow speed service plays a role in its price."
+- the accused/real people -- "AT&T spokesperson Jim Greer said in an emailed statement that The Markup’s analysis is 'fundamentally flawed' because it 'clearly ignored our participation in the federal Affordable Connectivity Program and our low-cost Access by AT&T service offerings.'"
+- 
+- activist group -- can make case for silent voices; communication workers of America; they are the experts of the opposition to the internet providers; they write to FCC; you give perspective of an organized group able to the voice for those who can't/don't; valuable info + counterbalances the PR Machine that is these corps/this corp
+- the accused -- you need to reach out to the person/org under scrutiny to make sure they have a say/statement + could get more info; it is being impartial and helps balance it out + gives credibility by having the two sides (activist group = the ppl affected VS the internet provider(S))
+- officials -- can be sympathetic to your reporting; legislators
+
+- types of sources (bank)
+- Real person
+- Experts
+- Activists
+- “Accused”
+- Officials (sometimes same as “accused”)
+
 
 
